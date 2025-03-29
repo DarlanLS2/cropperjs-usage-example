@@ -1,2 +1,1 @@
-# Cropper.js
-Exemplo de uso da biblioteca Cropper.js
+# Repositiorio para testes da biblioteca Cropper.js
